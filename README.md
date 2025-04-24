@@ -49,7 +49,7 @@ Mi objetivo es adquirir la experiencia y los conocimientos necesarios para, en e
   <a href="mailto:gabrielbustos0905@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Email" alt="Email" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://porfolio-web-theta.vercel.app/" target="_blank">
+  <a href="https://gabriel-bustos.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" title="Portafolio" alt="Portafolio" width="40" height="40"/>
   </a>
 </p>
